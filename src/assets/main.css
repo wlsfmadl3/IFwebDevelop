@@ -1,0 +1,73 @@
+@font-face {
+    font-family: 'NEXON Lv1 Gothic OTF';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@2.1/NEXON Lv1 Gothic OTF.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+ul, ol, li {
+    list-style: none;
+}
+
+#container{
+    margin: 0px auto;
+    height: 100%;
+    width: 80%;
+
+}
+
+.header {
+    margin: 0px auto;
+    width: 1010px;
+    height: 170px;
+    font-size: 24px;
+    float: left;
+    border-bottom: 2px solid grey;
+    /* font-family: 'NEXON Lv1 Gothic OTF', sans-serif; */
+}
+
+#nav {
+    height: 67px;
+    float: left;
+    right: 0px;
+}
+#nav > ul > li {
+    float: left;
+    position: relative;
+}
+#nav > ul > li > a {
+    display: block;
+    font-size: 20px;
+    padding: 20px 20px;
+}
+
+/* 본문 */
+.contents {
+    width: 80%;
+    padding-top: 150px;
+}
+
+.sections {
+    margin: 25px auto;
+    border-bottom: 2px solid rgb(185, 185, 185);
+}
+
+.sections > p {
+    font-size: 1.7em
+}
+
+
+/* 푸터 */
+footer {
+    border-top: 2px solid grey;
+    line-height: 2.5;
+}
