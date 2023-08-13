@@ -1,0 +1,9 @@
+.line_nav {
+    width: 900px;
+}
+
+.line_nav > ul > li {
+    float: left;
+    position: relative;
+    display: block;
+}

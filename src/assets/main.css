@@ -32,7 +32,7 @@ ul, ol, li {
     font-size: 24px;
     float: left;
     border-bottom: 2px solid grey;
-    /* font-family: 'NEXON Lv1 Gothic OTF', sans-serif; */
+    font-family: 'NEXON Lv1 Gothic OTF', sans-serif;
 }
 
 #nav {
@@ -65,9 +65,16 @@ ul, ol, li {
     font-size: 1.7em
 }
 
+#image {
+    border-radius: 10px;
+}
+
 
 /* 푸터 */
 footer {
+    margin: 1500px auto;
+    width: 1010px;
     border-top: 2px solid grey;
     line-height: 2.5;
 }
+
