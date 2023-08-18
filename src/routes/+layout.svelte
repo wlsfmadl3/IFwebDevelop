@@ -6,6 +6,7 @@
 <div id='container'>
 <link rel="stylesheet" href="src/assets/main.css" />	
 <link rel="stylesheet" href="src/assets/line.css" />	
+<link rel="stylesheet" href="src/assets/tables.css" />	
 
     <header class="header">
        <h1 class="round shadow1"style="color: white; background-color: #6666FF; width: 470px;"><a href="/">태성고등학교 입시포털</a></h1>

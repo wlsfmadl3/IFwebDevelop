@@ -1,24 +1,8 @@
-<style>
-    body {
-        font-family: Arial, sans-serif;
-    }
-    table {
-        width: 100%;
-        border-collapse: collapse;
-    }
-    th, td {
-        padding: 8px;
-        text-align: left;
-        border-bottom: 1px solid #ddd;
-    }
-    th {
-        background-color: #f2f2f2;
-    }
-</style>
 <body>
+<div class="section">
 <h1>선택 과목 가이드</h1>
 
-<table>
+<table id="subject_table">
     <tr>
         <th>과목</th>
         <th>설명</th>
@@ -61,5 +45,5 @@
     <!-- 원하는 만큼 과목을 추가할 수 있습니다 -->
     
 </table>
-
+</div>
 </body>
