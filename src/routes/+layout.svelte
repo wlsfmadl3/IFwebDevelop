@@ -11,7 +11,7 @@
        <h1 class="round shadow1"style="color: white; background-color: #6666FF; width: 470px;"><a href="/">태성고등학교 입시포털</a></h1>
        <style>
         .shadow1{
-            color: blue;
+            color: white;
             text-shadow: 7px -7px 20px #000; 
 
         }
