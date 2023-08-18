@@ -10,7 +10,7 @@
 Failed to resolve import "fsevents" ... 해결하기!!!
 프로젝트 파일 내부의 vite.config.js 파일을 수정합니다.
 알아서 잘 적절히...
-```
+```JavaScript
 export default defineConfig({
 	plugins: [sveltekit()],
 	test: {
