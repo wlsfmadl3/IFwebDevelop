@@ -21,21 +21,22 @@ ul, ol, li {
 #container{
     margin: 0px auto;
     height: 100%;
-    width: 80%;
+    width: 90%;
 
 }
 
 .header {
     margin: 0px auto;
-    width: 1010px;
+    width: 1700px;
     height: 170px;
     font-size: 24px;
     float: left;
     border-bottom: 2px solid grey;
-    /* font-family: 'NEXON Lv1 Gothic OTF', sans-serif; */
+    font-family: 'NEXON Lv1 Gothic OTF', sans-serif;
 }
 
 #nav {
+    width: 1700px;
     height: 67px;
     float: left;
     right: 0px;
@@ -57,6 +58,7 @@ ul, ol, li {
 }
 
 .sections {
+    width: 90%;
     margin: 25px auto;
     border-bottom: 2px solid rgb(185, 185, 185);
 }
@@ -65,9 +67,19 @@ ul, ol, li {
     font-size: 1.7em
 }
 
+#image {
+    border-radius: 10px;
+}
+#hyperlink {
+    color: #0066cc;
+    text-decoration: none;
+}
 
 /* 푸터 */
 footer {
+    margin: 100px auto;
+    width: 1700px;
     border-top: 2px solid grey;
     line-height: 2.5;
 }
+
